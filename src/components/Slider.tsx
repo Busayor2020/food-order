@@ -38,7 +38,7 @@ const Slider = () => {
       <h1 className="text-5xl text-center uppercase p-4 md:p-10 md:text-6xl xl:text-7xl">
        {data[currentSlide].title}
       </h1>
-      <button className='bg-red-500 text-white py-3 px-6 ring-2 ring-gray-500 rounded-tl-full rounded-br-full'>
+      <button className='bg-red-500 text-white py-2 px-4 ring-2 ring-gray-500 rounded-tl-full rounded-br-full mb-10'>
       Order Now</button>
     </div>
     {/* IMAGE CONTAINER */}
